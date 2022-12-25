@@ -33,7 +33,7 @@
 #include "robot_localization/ros_filter_types.h"
 
 #include <nodelet/nodelet.h>
-#include <pluginlib/class_list_macros.h>
+#include <pluginlib/class_list_macros.hpp>
 #include <ros/ros.h>
 
 #include <memory>

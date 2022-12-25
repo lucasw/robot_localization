@@ -33,7 +33,7 @@
 #include "robot_localization/navsat_transform.h"
 
 #include <nodelet/nodelet.h>
-#include <pluginlib/class_list_macros.h>
+#include <pluginlib/class_list_macros.hpp>
 #include <ros/ros.h>
 
 #include <memory>
